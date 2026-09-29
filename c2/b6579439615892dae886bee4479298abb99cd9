@@ -1,0 +1,21 @@
+src/test/unit_tests/util_functions_tests/test_http_utils.cert.test.js
+  s_c9c6485af23690::t_fc4de82329ff1d 377-498
+src/util/http_utils.js
+  s_c9c6485af23690::t_3b3f34701a65fb 7,9,46-68,73,103-176,1294-1296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c2b6579439615892dae886bee4479298abb99cd9",
+  "prompts": {},
+  "sessions": {
+    "s_c9c6485af23690": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f12ad89c0ffezuTMLhZwRg3h7g",
+        "model": "zai-org/GLM-5.3-Flash"
+      },
+      "human_author": "Alvaro Hormigos <alvarohg@inditex.com>"
+    }
+  }
+}
