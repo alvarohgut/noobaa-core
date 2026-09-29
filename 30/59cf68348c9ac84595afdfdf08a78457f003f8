@@ -1,0 +1,21 @@
+src/test/unit_tests/util_functions_tests/test_http_utils.cert.test.js
+  s_59b61943a3b18b::t_c263961b1472a6 391-392,402,414-415,449-450,462,477-478
+src/util/http_utils.js
+  s_59b61943a3b18b::t_b0905999bc4705 112-114,118-127,134-136,183,191-203,1326
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3059cf68348c9ac84595afdfdf08a78457f003f8",
+  "prompts": {},
+  "sessions": {
+    "s_59b61943a3b18b": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "8fb74a51-64dd-44a4-bfc7-7d7341501227",
+        "model": "unknown"
+      },
+      "human_author": "Alvaro Hormigos <alvarohg@inditex.com>"
+    }
+  }
+}
